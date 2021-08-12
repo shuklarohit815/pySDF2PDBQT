@@ -1,0 +1,1488 @@
+1051
+  -OEChem-10051719083D
+
+ 26 26  0     0  0  0  0  0  0999 V2000
+   -3.5764    0.1493   -0.3127 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9746    0.3328   -0.4260 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2571   -1.3903   -0.4957 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0093    1.2277    0.8120 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7195   -1.2666    0.4551 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2533   -2.9595    0.3602 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3210    0.2437   -1.6124 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0755    1.9981    0.1545 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2391    0.4510    0.4354 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0769   -0.6125    0.1184 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2007    0.2559    0.7655 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4134   -0.3722   -0.1807 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8594    0.9392   -0.1490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7824    1.7257    0.4396 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2852    1.2536   -0.4633 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5591   -1.9759    0.0992 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3812   -0.6885    1.2882 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5281    1.0464    1.4514 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1804    2.5976    0.6767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5352    0.9463   -1.4839 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4688    2.3315   -0.3928 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9575    0.7612    0.2467 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5065   -2.1122   -0.1458 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1521   -1.0648   -0.6777 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9619    1.3475    1.0128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6122   -1.6568    0.5689 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 16  2  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00114
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NGVDGCNFYWLIFO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(C=O)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2-3,11H,4H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+NGVDGCNFYWLIFO-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H10NO6P
+
+> <MOLECULAR_WEIGHT>
+247.1419
+
+> <EXACT_MASS>
+247.024573569
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.89888718130824
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(4-formyl-5-hydroxy-6-methylpyridin-3-yl)methoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.55
+
+> <JCHEM_LOGP>
+-2.0856087036128135
+
+> <ALOGPS_LOGS>
+-1.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.691277029499376
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.6802986106557465
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.109012435085948
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.95
+
+> <JCHEM_REFRACTIVITY>
+54.746300000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.70e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyridoxal phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00114
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00045
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Pyridoxal phosphate
+
+> <SYNONYMS>
+3-hydroxy-2-methyl-5-((phosphonooxy)methyl)-4-pyridinecarboxaldehyde; 3-hydroxy-5-(hydroxymethyl)-2-methylisonicotinaldehyde 5-phosphate; Codecarboxylase; PLP; Pyridoxal 5-monophosphoric acid ester; Pyridoxal 5-phosphate; Pyridoxal 5'-phosphate; Pyridoxal P; Pyridoxal phosphate anhydrous; Pyridoxal-5P; Pyridoxal-P
+
+> <PRODUCTS>
+Azesco; BumP DHA; Dexivite; Dyzbac; EnBrace HR; EnLyte; Hypnosom; L-Methyl PNV DHA; L-Methyl-B6-B12; Levomefolate Calcium Pyridoxal-5 Phosphate Mecobalamin Algal; Levomefolate Calcium, Pyridoxal 5-phosphate, Methylcobalamin and Schizochytrium DHA Oil; Lexazin; Mebolex; Mebolic; Medi-10; Methazel; Omniquin; Omnivex; PramLyte; Trinaz; Vita-Rx Diabetic Vitamin; Xyzbac; Xyzbac G; Zalvit; Zavitrol; Zyvit
+
+> <INTERNATIONAL_BRANDS>
+Biosechs; Himitan; Vitazechs
+
+> <SALTS>
+Pyridoxal phosphate hydrate
+
+$$$$
+91443
+  -OEChem-10051719083D
+
+ 55 57  0     1  0  0  0  0  0999 V2000
+   -5.0661   -1.1129    2.4181 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2383    1.9583    1.7563 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3280    0.6119   -1.9919 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1868    0.6987   -2.7387 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4184   -4.4031   -0.0491 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6730   -3.2971    1.4840 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6858    1.0429    0.7202 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3982    0.7346   -1.9034 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0258    1.9781    0.6864 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9999   -1.5729   -1.4202 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8364   -2.4909    0.7493 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1843    0.7897   -0.2457 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6080   -3.7635   -1.0722 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2871    2.1186   -0.1819 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.1708    2.0986   -1.4459 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8051    1.9677   -0.5227 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1981   -0.1524    0.2615 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5368   -0.3371   -1.0343 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6429    1.8550    0.7174 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3593   -1.2845    1.2373 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1329   -2.6025   -0.5196 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6077    0.5596   -0.3440 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0486   -0.7319    0.3556 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0712    1.7121   -0.4721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0319    1.8757    1.9381 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1353    1.6102    0.7794 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4604    1.5897   -0.4411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4210    1.7534    1.9690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4638   -2.0319   -0.2112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5837    1.4830    0.8116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814    0.6187   -1.8109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9195   -3.2758    0.5207 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4342    3.0767    0.3324 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1461    2.5414   -1.2094 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7293    2.6971   -2.2497 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5048    2.7969   -1.1749 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6401    1.0288   -1.0659 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4242    1.0949    1.6990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6827    0.5788   -2.8644 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5008    2.1004    1.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2433   -1.6879   -2.3976 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1064    1.4083    0.1410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1438   -0.8012    0.3207 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7851   -0.6664    1.4196 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4137    1.6988   -1.4438 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5125    1.9856    2.8727 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6040    0.3495   -0.9523 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9798    1.5121   -1.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9275    1.7673    2.9306 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3701   -1.9996   -0.1551 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7593   -2.1391   -1.2607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8309   -3.8272   -2.0595 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7491   -4.5942   -0.5077 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5694    0.6665   -2.9411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7258   -5.2129    0.4114 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  2  0  0  0  0
+  2 30  2  0  0  0  0
+  3 31  1  0  0  0  0
+  3 54  1  0  0  0  0
+  4 31  2  0  0  0  0
+  5 32  1  0  0  0  0
+  5 55  1  0  0  0  0
+  6 32  2  0  0  0  0
+  7 14  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 38  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 39  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 40  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 41  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 12 47  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 52  1  0  0  0  0
+ 13 53  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 36  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 19 24  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 31  1  0  0  0  0
+ 22 42  1  0  0  0  0
+ 23 29  1  0  0  0  0
+ 23 43  1  0  0  0  0
+ 23 44  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 24 45  1  0  0  0  0
+ 25 28  2  0  0  0  0
+ 25 46  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+ 26 30  1  0  0  0  0
+ 27 48  1  0  0  0  0
+ 28 49  1  0  0  0  0
+ 29 32  1  0  0  0  0
+ 29 50  1  0  0  0  0
+ 29 51  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00116
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MSTNYGQPCMXVAQ-KIYNQFGBSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)C2=C(NCC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N2)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H23N7O6/c20-19-25-15-14(17(30)26-19)23-11(8-22-15)7-21-10-3-1-9(2-4-10)16(29)24-12(18(31)32)5-6-13(27)28/h1-4,11-12,21,23H,5-8H2,(H,24,29)(H,27,28)(H,31,32)(H4,20,22,25,26,30)/t11?,12-/m0/s1
+
+> <INCHI_KEY>
+MSTNYGQPCMXVAQ-KIYNQFGBSA-N
+
+> <FORMULA>
+C19H23N7O6
+
+> <MOLECULAR_WEIGHT>
+445.4292
+
+> <EXACT_MASS>
+445.170981503
+
+> <JCHEM_ACCEPTOR_COUNT>
+12
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.9531289011855
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+8
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-[(4-{[(2-amino-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid
+
+> <ALOGPS_LOGP>
+-0.96
+
+> <JCHEM_LOGP>
+-4.212630310185438
+
+> <ALOGPS_LOGS>
+-3.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.863700981959142
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5095693878577654
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.5846826310688993
+
+> <JCHEM_POLAR_SURFACE_AREA>
+207.27000000000004
+
+> <JCHEM_REFRACTIVITY>
+121.3866
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.69e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00116
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00056
+
+> <DRUG_GROUPS>
+nutraceutical
+
+> <GENERIC_NAME>
+Tetrahydrofolic acid
+
+> <SYNONYMS>
+5,6,7,8-tetrahydrofolate; 5,6,7,8-tetrahydrofolic acid; Tetrahydrofolate
+
+$$$$
+6274
+  -OEChem-11281915423D
+
+ 20 20  0     1  0  0  0  0  0999 V2000
+   -1.0689   -1.6919   -0.7660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4946   -1.1223    0.9038 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6797    0.1409    1.1624 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7494    1.3693   -0.2178 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8201   -0.3365   -0.6825 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3579    1.3004    0.3217 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5062    0.6397   -0.4567 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9671    0.6020    0.1195 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7498   -0.7917   -0.0102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6556    0.3150   -1.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8043   -0.4249    0.6290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5942    1.3196    1.3946 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2433    2.3450    0.0039 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3124    0.6416   -1.5355 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4441    0.1943    2.1450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3992    0.5299   -2.0301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6419    2.3346   -0.5280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9358    1.4198    0.7835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5655   -0.8810    1.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2415   -2.6142   -0.4801 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00117
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HNDVDQJCIGZPNO-YFKPBYRVSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CNC=N1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)/t5-/m0/s1
+
+> <INCHI_KEY>
+HNDVDQJCIGZPNO-YFKPBYRVSA-N
+
+> <FORMULA>
+C6H9N3O2
+
+> <MOLECULAR_WEIGHT>
+155.1546
+
+> <EXACT_MASS>
+155.069476547
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.670259477862192
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(1H-imidazol-5-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-2.67
+
+> <JCHEM_LOGP>
+-3.6160224799542067
+
+> <ALOGPS_LOGS>
+-0.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.941172308417476
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8499726767043654
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.437137464922305
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.0
+
+> <JCHEM_REFRACTIVITY>
+38.059
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,4-dichlorobenzyl alcohol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00117
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00030
+
+> <DRUG_GROUPS>
+investigational; nutraceutical
+
+> <GENERIC_NAME>
+Histidine
+
+> <SYNONYMS>
+(S)-4-(2-Amino-2-carboxyethyl)imidazole; (S)-a-Amino-1H-imidazole-4-propanoic acid; (S)-alpha-amino-1H-Imidazole-4-propanoic acid; (S)-alpha-Amino-1H-imidazole-4-propionic acid; (S)-α-amino-1H-Imidazole-4-propanoic acid; HIS; Histidina; Histidine; L-(−)-histidine; L-Histidin; L-Histidine
+
+> <PRODUCTS>
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 20% Prosol; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 8.5% Freamine III; Aminosyn; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn HF; Aminosyn II; Aminosyn II 10% With Electrolytes; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II and Dextrose; Aminosyn II in Dextrose; Aminosyn II with Electrolytes; Aminosyn II with Electrolytes in Dextrose with Calcium; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; CAREDO Treating Periodontitis Toothpastes 100g; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; FreAmine HBC; FreAmine III; HepatAmine; Hepatasol; Kabiven; NephrAmine; Nephramine Liq IV; Novamine; Nutrineal Pd4; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Olimel 7.6%; Olimel 7.6% E; Perikabiven; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene; Primene 10%; Primene 10%-liq IV; ProSol; ProcalAmine; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; RenAmin; Renamin (amino Acids) Injection; Smofkabiven; Smofkabiven Electrolyte Free; Smofkabiven Peripheral; Synthamin; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; Travasol Inj Without Electrolytes 8.5%; Trepoxen-250; Trepoxicam-7.5; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+> <SALTS>
+Histidine monohydrochloride monohydrate
+
+$$$$
+34755
+  -OEChem-02072010413D
+
+ 49 51  0     1  0  0  0  0  0999 V2000
+    1.6488   -0.5573    1.8263 S   0  3  2  0  0  0  0  0  0  0  0  0
+   -1.1285   -1.6747    1.0647 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9934   -4.4048   -0.2869 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4488   -2.9210   -2.0376 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6477    0.2211   -1.9915 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.4653    0.1486   -0.6103 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8850   -0.5023   -0.0171 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5571    0.9428   -0.3231 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0627    1.0526    0.3881 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5333    2.7828   -0.9036 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8307    3.3669    0.2862 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1094    3.9459   -0.1601 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0209   -2.4083    0.5819 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4351   -3.1485   -0.6716 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5345   -2.2467   -1.1974 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1883   -1.7817    0.0949 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1437   -1.4169    0.3103 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3034   -0.1047    1.2573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3409    0.7441    0.1220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2184   -0.3289   -0.2843 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2580    1.1900    0.4501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1412   -2.0367    2.7403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3933    1.6247   -0.0707 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6443    1.5876   -0.0646 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.1022    2.9822    0.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9036    2.3925    0.4512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3250    0.5508   -0.9747 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2891   -3.1314    1.3558 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3542   -3.3429   -1.4034 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1041   -1.4046   -1.7516 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9212   -2.5047    0.4745 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9986   -1.9525   -0.1147 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8383   -0.6487   -0.4054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7496   -0.9281    0.6924 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9210    0.0539    2.1486 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2699   -4.9456    0.0736 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7843   -3.6962   -1.5561 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8888   -1.1628   -0.4418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8491    2.0001    1.0686 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5673    1.0694   -0.3950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6743   -2.7454    2.1018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2597   -2.5081    3.1801 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7992   -1.7335    3.5596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2968    1.8148    0.7866 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1035    2.7361    0.6621 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4518    3.0533   -1.2525 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9529    2.5901   -1.7189 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8729    4.9262   -0.0896 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0589    3.6613   -0.3591 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 18  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 37  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 27  2  0  0  0  0
+  7 16  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 20  2  0  0  0  0
+  8 23  1  0  0  0  0
+  9 19  2  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 46  1  0  0  0  0
+ 10 47  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 48  1  0  0  0  0
+ 12 49  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 38  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 39  1  0  0  0  0
+ 21 40  1  0  0  0  0
+ 22 41  1  0  0  0  0
+ 22 42  1  0  0  0  0
+ 22 43  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 24 27  1  0  0  0  0
+ 24 44  1  0  0  0  0
+ 26 45  1  0  0  0  0
+M  CHG  2   1   1   5  -1
+M  END
+> <DATABASE_ID>
+DB00118
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MEFKEPWMEQBLKI-AIRLBKTGSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[S+](CC[C@H](N)C([O-])=O)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1N=CN=C2N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H22N6O5S/c1-27(3-2-7(16)15(24)25)4-8-10(22)11(23)14(26-8)21-6-20-9-12(17)18-5-19-13(9)21/h5-8,10-11,14,22-23H,2-4,16H2,1H3,(H2-,17,18,19,24,25)/t7-,8+,10+,11+,14+,27?/m0/s1
+
+> <INCHI_KEY>
+MEFKEPWMEQBLKI-AIRLBKTGSA-N
+
+> <FORMULA>
+C15H22N6O5S
+
+> <MOLECULAR_WEIGHT>
+398.44
+
+> <EXACT_MASS>
+398.137239006
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.004396401498243
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.26098478969112
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-({[(2S,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl}(methyl)sulfaniumyl)butanoate
+
+> <ALOGPS_LOGP>
+0.05
+
+> <JCHEM_LOGP>
+-5.318677759807232
+
+> <ALOGPS_LOGS>
+-2.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.444250657594088
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7035398838473055
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.414366136255632
+
+> <JCHEM_POLAR_SURFACE_AREA>
+185.46
+
+> <JCHEM_REFRACTIVITY>
+107.07199999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2S,4R,8S,9S,11S,12R,13S)-12-fluoro-11-hydroxy-8-(2-hydroxyacetyl)-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.0^{2,9}.0^{4,8}.0^{13,18}]icosa-14,17-dien-16-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00118
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00052
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Ademetionine
+
+> <SYNONYMS>
+Ademetionine; AdoMet; L-S-Adenosylmethionine; S-Adenosylmethionine; SAM; SAM-e; SAMe
+
+> <INTERNATIONAL_BRANDS>
+Donamet; Sam-Sulfate; SAMe; SAMe Rx-Mood
+
+> <SALTS>
+Ademetionine butanedisulfonate; Ademetionine disulfate ditosylate; Ademetionine disulfate monotosylate; Ademetionine disulfate tosylate; Ademetionine tosylate
+
+$$$$
+1060
+  -OEChem-10051719083D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+   -1.4581   -0.9961    0.0082 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0591   -1.3165   -0.0143 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1940    1.2825   -0.0180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7111   -0.1452   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6443    1.0273    0.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7624    0.1480    0.0141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4810    1.6386   -0.8810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6775    0.6689    0.0045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842    1.6204    0.9138 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4268   -0.8423   -0.0073 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00119
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LCTONWCANYUPML-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)
+
+> <INCHI_KEY>
+LCTONWCANYUPML-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H4O3
+
+> <MOLECULAR_WEIGHT>
+88.0621
+
+> <EXACT_MASS>
+88.016043994
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.3105058729791725
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopropanoic acid
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+0.06587395333333337
+
+> <ALOGPS_LOGS>
+0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.93012330309767
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.583170381128017
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+17.9897
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.34e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyruvic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00119
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00050; DB11194
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Pyruvic acid
+
+> <SYNONYMS>
+2-ketopropionic acid; 2-oxopropanoic acid; 2-Oxopropansäure; 2-Oxopropionsäure; a-Ketopropionic acid; Acetylformic acid; acide pyruvique; alpha-ketopropionic acid; Brenztraubensäure; BTS; Pyroracemic acid; α-ketopropionic acid; α-Oxopropionsäure
+
+> <PRODUCTS>
+Rejuvesol
+
+> <SALTS>
+Calcium pyruvate; Sodium pyruvate
+
+$$$$
+6140
+  -OEChem-11291912053D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+   -1.5606   -1.5480   -1.0372 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1863   -1.0236    0.4554 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7945    1.6326   -0.1118 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6090    0.9812    0.7905 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6652    0.7241   -0.2957 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7593    0.4612    0.4141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1082   -0.8355    0.7537 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6370    1.2913   -0.2633 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2259   -0.6859   -0.2249 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3708   -1.3157    0.4062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8996    0.8109   -0.6109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2665   -0.4925   -0.2761 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9180    0.5378    1.7471 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5161    2.0589    0.9859 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2654    0.8943   -1.3020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4193   -1.4840    1.2872 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3595    2.3068   -0.5307 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4744    2.5968   -0.1977 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1587    1.5450    0.8368 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6567   -2.3305    0.6672 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5970    1.4516   -1.1428 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2496   -0.8665   -0.5468 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9362   -2.4531   -0.9956 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 17  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00120
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/COLNVLDHVKWLRT-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)/t8-/m0/s1
+
+> <INCHI_KEY>
+COLNVLDHVKWLRT-QMMMGPOBSA-N
+
+> <FORMULA>
+C9H11NO2
+
+> <MOLECULAR_WEIGHT>
+165.1891
+
+> <EXACT_MASS>
+165.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.0319763846329
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-phenylpropanoic acid
+
+> <ALOGPS_LOGP>
+-1.35
+
+> <JCHEM_LOGP>
+-1.184438468740489
+
+> <ALOGPS_LOGS>
+-1.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.469229772182635
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.446936344396194
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+45.11630000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+palladium(2+) (4S,5S,14R,15R)-10-acetyl-4-(2-carboxyethyl)-15-ethyl-2-(2-methoxy-2-oxoethyl)-5,9,14,19-tetramethyl-20-[(2-sulfoethyl)carbamoyl]-21,22,23,24-tetraazapentacyclo[16.2.1.1^{3,6}.1^{8,11}.1^{13,16}]tetracosa-1,3(24),6,8,10,12,16(22),17,19-nonaene-21,23-diide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00120
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00044
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Phenylalanine
+
+> <SYNONYMS>
+(S)-2-Amino-3-phenylpropionic acid; (S)-alpha-Amino-beta-phenylpropionic acid; 3-phenyl-L-alanine; beta-Phenyl-L-alanine; F; Fenilalanina; L-Phenylalanine; Phe; Phenylalanine; Phenylalaninum; β-phenyl-L-alanine
+
+> <PRODUCTS>
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 20% Prosol; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 8.5% Freamine III; Aminosyn; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn HF; Aminosyn II; Aminosyn II 10% With Electrolytes; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II and Dextrose; Aminosyn II in Dextrose; Aminosyn II with Electrolytes; Aminosyn II with Electrolytes in Dextrose with Calcium; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; FreAmine HBC; FreAmine III; HepatAmine; Hepatasol; Kabiven; NephrAmine; Nephramine Liq IV; Novamine; Nutrineal Pd4; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Olimel 7.6%; Olimel 7.6% E; Perikabiven; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene; Primene 10%; Primene 10%-liq IV; ProSol; ProcalAmine; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; RenAmin; Renamin (amino Acids) Injection; Smofkabiven; Smofkabiven Electrolyte Free; Smofkabiven Peripheral; Synthamin; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; Travasol Inj Without Electrolytes 8.5%; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+> <SALTS>
+Phenylalanine hydrochloride; Phenylalanine sodium
+
+$$$$
+171548
+  -OEChem-10051719083D
+
+ 32 33  0     1  0  0  0  0  0999 V2000
+   -2.4613    1.9562    1.0264 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0282   -2.7745    0.7862 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9601   -0.7286   -0.8625 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2345   -0.1562    1.2118 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6389   -1.0776   -0.0379 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8653   -0.8760   -0.3016 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7963    0.1561   -0.7847 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.3272    0.3325   -0.8946 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1759    1.3861   -0.1164 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.7881    1.5775   -0.1402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1515    1.1550    0.5864 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2536    0.6369   -0.3410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8641   -1.7026    0.2196 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6265    0.4376    0.3075 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7018   -0.0234   -0.6757 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0173   -0.2989    0.0167 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3490   -0.0162   -1.7704 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6671    0.3619   -1.9353 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0542    2.1751   -0.8686 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8795    2.4249   -0.8272 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7428    1.4441    0.3770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4936    2.1002    1.0286 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0371    0.4536    1.4230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7448   -1.4961    0.1981 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8538   -1.1054   -0.2752 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9495   -0.3160   -0.7878 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3643    1.3430   -1.1743 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9441    1.3772    0.7770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5308   -0.2954    1.1187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8662    0.7490   -1.4347 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3792   -0.9469   -1.1688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8176   -0.9066   -0.4205 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  3 32  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00121
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YBJHBAHKTGYVGT-ZKWXMUAHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]12CS[C@@H](CCCCC(O)=O)[C@@]1([H])NC(=O)N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O3S/c13-8(14)4-2-1-3-7-9-6(5-16-7)11-10(15)12-9/h6-7,9H,1-5H2,(H,13,14)(H2,11,12,15)/t6-,7-,9-/m0/s1
+
+> <INCHI_KEY>
+YBJHBAHKTGYVGT-ZKWXMUAHSA-N
+
+> <FORMULA>
+C10H16N2O3S
+
+> <MOLECULAR_WEIGHT>
+244.311
+
+> <EXACT_MASS>
+244.088163078
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.919241783202757
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[(3aS,4S,6aR)-2-oxo-hexahydro-1H-thieno[3,4-d]imidazolidin-4-yl]pentanoic acid
+
+> <ALOGPS_LOGP>
+0.17
+
+> <JCHEM_LOGP>
+0.31942364800000006
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.546990539562877
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.4043165776835425
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.863639696129737
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.42999999999999
+
+> <JCHEM_REFRACTIVITY>
+60.0509
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00121
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00019
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Biotin
+
+> <SYNONYMS>
+(+)-cis-Hexahydro-2-oxo-1H-thieno[3,4]imidazole-4-valeric acid; (3aS,4S,6aR)-Hexahydro-2-oxo-1H-thieno[3,4-d]imidazole-4-valeric acid; 5-(2-oxohexahydro-1H-thieno[3,4-d]imidazol-4-yl)pentanoic acid; Biotin; Biotina; Biotine; Biotinum; cis-(+)-Tetrahydro-2-oxothieno[3,4]imidazoline-4-valeric acid; cis-Hexahydro-2-oxo-1H-thieno(3,4)imidazole-4-valeric acid; cis-Tetrahydro-2-oxothieno(3,4-d)imidazoline-4-valeric acid; Coenzyme R; D-(+)-biotin; D-Biotin; Vitamin B7; Vitamin H
+
+> <PRODUCTS>
+24 Multivitamins + Minerals; 50 Plus; 50 Plus Multiple Vitamins & Minerals; 574H Cell Care; Acti-biotin 300 Caplet 300mcg; Adult Formula 50+; Adult Infuvite Multiple Vitamins; Alkadrenergy Tablets; Am Caps; Amerix Biotin; Amerix Multivitamin; Anti Hair Loss; Avon Vitadvance Multi-kids Complete; B 50 Capsules; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Complex W Vit C W Non-med Yeast&liver Tab; B Compound 50mg Tab; B-100 Caps; B-100 Complex Tablets; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Complex Tab; B-50 Hi Potency B Vitamins Tab; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex Tablets; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B-plus - Tab; B50 B Complex Tab; B50 Complex; Bacmin; Balanced B 125 Srt; Balanced B-100 Timed Release; Balanced B-50 B-complex Vitamins Tab; Balanced B-50 B-complex Vitamins, Timed Rele; Balanced B-50 Complex; Balanced B100; Balanced B50 Complex; Bev 29 Tab; Bev B-150; Biona-vit Controls and Prevents Hair Loss; Biotin 300 Mcg - Tablet; Biotin 300 Mcg Tablet; Biotin 300mcg; Biotin 500mcg; Biotin Cap 500mcg; Biotin Ctr Srt 1000mcg; Biotin Tab 250mcg; Biotin Tab 300mcg; Body Rox; Bonnoir Hair Medi; Bonogen Activator hair loss treatment; Bonogen Plus hair care shampoo; Bonogen hair care shampoo; Born Hair; C-B Complex; C. Vit-min Formula; Carbassist Tablets; Carione Rg; Cavan Heme OB; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Central-vite 18 Essential; Century Complete; Chela-chromium 200; Chewable Adult Multivitamins With Minerals; Chewable Children's Complete Multivitamins With Essential Minerals; Children's Chew Multi & Min Tab; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multivitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Children's Chewable Multivitamins With Minerals; Children's Chewable Multivitamins and Minerals; Children's Chewable Tab; Children's Chewable Vit and Min Tab; Childrens Chewab Vitamin W Chel Minerals; Classic Swiss One 10 Multivitamin and Mineral Tab; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Complex-75; Complexe B 75mg; Complexe B Compose 75; Complexe B-75; Concept DHA; Concept OB; Corvita; Corvite; Corvite 150; Corvite Free; D-biotin Tab 5mcg A Croquer; DaVITE; Daily Energy Brand Vitamin & Mineral Drink Mix; Derma-force; Dexifol; Dia-vite; Dialyvite; Dialyvite 3000; Dialyvite 5000; Dialyvite Supreme D; Dialyvite with Zinc; Diaplex; Distilpure Msm; Divista; Doctor's Choice Brand for Men; Doll Lash; Dong Sung Anti-Hair Loss; Dong Sung Monelyn; Dothelle DHA; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Multivitamins and Minerals; Enrich Core Pack - Children Vitamin and Mineral Supplement; Envirocomplex; Enviroflex - Tab; Escavite; Escavite D; Essential B Tablets; Essential Vitamins and Minerals; Extra Once A Day; Extra P.N. Vitamin-mineral Drink Mix; Extra-Virt Plus DHA; FeRiva; FeRiva FA; FeRivaFA; Fem Time Tab; Floriva; Floriva Plus; Folcaps Care One; Folika-MG; Folika-NC; Folika-T; Folivane-OB; Folivane-Plus with Ascorbic Acid Precursors; For-2; Formula F L W; Formula Gly; Formula Hh; Formula O-care Vitamin and Mineral Supplement; Formula O.C.; Formula Pro-B; Forty Plus Vitamin Supplement; Genicin Vita-S; Gentle Therapy; Glyco Lite Ect; Glyco Plus Ect; Grand Master Formula Tab; Great Day/am Formula Tab; Hair-loss Recovery Conditioner; HairQ-Plus; Harvest Of Values All B Complex Tab; HemeNatal OB; HemeNatal OB plus DHA; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Balanced B-100 Complex - Tab; Hi Potency Multi Tab; Hi Potency Stress B Tension With C; High Potency Multivitamins & Minerals Caplets; Hill.vite; Hoa 1; Hsn Formula; Hylavite; Hypo Vites Tab; Infuvite Adult Multiple Vitamins; Innersource Tab; Insur-all Vitamin Supplement; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Irospan 24/6; Isotonix Multitech Vitamin Mineral Supplemen; K.L. Vitamin-mineral; Kanga Sport Vitamins B & C Plus Minerals; Kanga-B Vitamin B Group + C; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kindervites; Lancell hair loss prevention hair grower clean formula; Leritone Junior; Lipo-B-C Tab; Liqui B Complex; Liqui B Complex Plus; Liqui Vita; Liquid B Complex 50; Lorid; Low Potency B Complex Tab; Luna Vitamin and Mineral Bar for Women; M.V.I. 12; M.V.I. Adult; M.V.I. Paediatric; M.V.I. Pediatric; M.V.I.-12; MYNEPHROCAPS DIALYSIS/STRESS Vitamin Supplement; Magnum-75 Vitamin and Mineral Supplement; Maintain Multiple Vitamin & Minerals; Master Key Multi Vitamin Multi Mineral Formula 2; Materna; Materna - Tab; Materna-tab; MaxFe; Maximum Once A Day; Maxine Vitamin and Mineral Supplement; Medi Msm (methyl Sulfonyl Methane); Mega 13 Multivitamin Formula; Mega Balance; Mega Capsules; Mega Plex III - Pck; Mega Plex IV - Pck; Mega Vitaminerals; Mega-vim 75 With Beta-carotene - Tablets; Megavite Rx; Men's; Men's 50+; Men's Biomultiple Vitamin and Mineral Supplement; Men's Multi Master Formula; Milltrium Senior Vitamin and Mineral Supplement; Mini-B Tab; MoReturn Hair; MoReturn Hair Tonic; MoRreturn Hair Care; Multi #2; Multi - N.T.O.x Formula - Tab; Multi 12 Injection; Multi B; Multi II IV Vi Tab; Multi Nt-OX; Multi Plex I - Tab; Multi Plex II - Tab; Multi Pro; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamins & Minerals; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-actin; Multi-force for Women Tab; Multi-vitamins With Minerals; Multicaps; Multipack II; Multiple Vitamins and Minerals; Multiple Vitamins and Minerals Capsules; Multitabs; Multivitamin & Minerals (iron Free); Multivitamin & Multimineral; Multivitamine; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins and Minerals - Complete; Multivitamins and Minerals Tablets; Multivitamins and Minerals With Betacarotene Tablets; Multivitamins and Minerals for Men; Multivitamins and Minerals for Women; Multivitamins and Minerals for Young Men; Multivitamins and Minerals for Young Women; Multivitamins and Multiminerals Formula Regular Tablet; Multra Plex; Multra With Iron; Mvc 9 Plus 3 Inj; Mvc 9+4 Inj; Myhephron Dialysis and Stress Supplement; Nata Komplete; Natal-V RX Multi-vitamin/Multi-mineral; Natural Source Spectrum With Beta Carotene; Ndm Scalp; NephPlex Rx; Nephrocaps; Nephrocaps-QT; Nephron FA; New Chapter's D'adamo 4 Your Type Multiple for Type O; Nexa Plus; Nioxin Recharging Complex; Nrg Plus Liq; Nutra Boost; Nutra-clear; Nutrilite Double X; Nutrol-B-complex; Olympian Multi Vit Plus Minerals Tab; Omega-3 Rx Complete; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Multiple Vit W Minerals; One A Day Tab; One Daily Vitamin and Mineral Dietary Supplement; One Per Day Vitamin and Mineral Dietary Supplement; Only One - Tablet; Original Bioscal Forte Multi-vitamin Supplement Capsules; Orti B; P.N. Vitamin-mineral Drink; P.N.P. Vitamin Drink; PM Caps; PNV Tabs 29-1; PNV-Omega; PNV-Select; PRENATE Enhance; PRENATE Restore; Paire OB Plus DHA; Palm Springs Multvit and Min Tab; Paramettes Adults; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Pepplus Special Care; Phytopecia Hair Tonic; Polymine Avec Zinc Et Cuivre; PreGenna; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Premium Prenatal; Premium Prenatal - Tablets; Prena1; Prena1 Plus; Prenatal Formula Tab; Prenatal Mega Antioxidant; Prenatal Supplement - Tab; Prenatal Vi-min; Prenatal Vitamin No 53 Iron Fum Folic Acid Docusate CA DHA; Prenatal Vitamin and Mineral Supplement; Prenatal Vitamin and Mineral Supplement -tab; Prenatal Vitamin and Mineral Supplement Tab; Prenatal Vitamins and Minerals Tablets; Prenatal and Post Partum Supplement; Prenate Chewable; Prenate Elite; Prenate Essential; Prenate Mini; Prenate Pixie; Prenate Star; Prenatvite Complete; PrimaCare; Pro Hers Vanilla; Pro His Mint; Pro Pcos Citrus; Q.T. Vitamin and Mineral Drink Mix; Quflora FE; Quflora FE Pediatric Drops; RE FAC-x; RE Nata OB; Renal Caps Dialysis/Stress Vitamin Supplement; Reno Caps; Replavite; Revit Multi-vitamins and Minerals; Revitalize Multi-vitamin and Mineral Complex; Revitex Ampoules Et Comprimes; Right Choice A.M. Multi Formula - Caplet; Scalp Scaling; Se-Natal One; Senior Multi One; Shen Min Vitamin Supplement; Shen Min Vitamin and Mineral Supplement; Silica-calcium With Biotin Capsules; Sincera - Tablets; Spai-sons Procapell; Spai-sons Prolac-vit; Spectrum 2 Cap; Spectrum Performa Multivitamins and Minerals Tablets; Stom #2; Stress B & C Caplet; Stress B Capsules With Vitamin C; Stress B Complex With C and E Tab; Stress B Complex With C, E & Iron; Stress B Complex With C, E and Iron Tab; Stress B Complex With C,e, Zinc and Copper; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress B-complex Plus Iron With Vitamins C&e; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Ctr Srt; Stress Formula; Stress Formula + Iron; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Multivitamin Tablets USP; Stress Formula Tab; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Vitamin B With C Complex Tablets; Stressmates; Stresstabs + Zinc-copper; Strovite Forte Caplet; Strovite One Caplets; Super B Compound W 500mg Vit C; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Multi; Super Pantoplex; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super Vita Vim Multivitamins and Minerals; Super Vita-vim With Beta-carotene - Tab; Super-pote Vitamin Supplement; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; Swical-energy 3e Age; Swiss One; Swiss One Multi Vit & Chel Min Tab; Swiss One Multivitamin and Mineral Caplet; Swiss Total One; T.R.I. B-plex Src; TL-Care DHA; TL-Fluorivite; TL-Folate; TL-Select DHA; TRONVite; Taron-C DHA; Therapytion Nokmosu Neutral and oily Hair; Therapytion Nokmosu Sensitive and Dry Hair; Thrivite Rx; Time Release B 100 Compound - Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Timed Release Vita-vim Srt; Tk-nax; Tl-hem 150; Total Living Concepts Formula One - Tab; Totalvit Plus; Tricare Prenatal 2-part Daily Prenatal Vitamin System; Tricare Prenatal DHA One; Tricare Prenatal DHA One Rx Multivitamin; Tricare Prenatal DHA One With Folate; Tricare Prenatal Quick Dissolve; Trinatal GT; Trinatal Rx 1; TriphroCaps; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; Ultimate OB DHA; UltimateCare ONE NF; Ultra Hr; Usana Megavitamin Tablets - Tab; VIL-Rx; VP-HEME One; VP-Vite Rx; Vc II; Vege 1 Daily Tab; Vege Swiss One Multivitamin W Chel Mins Tab; Vimeral Tab; Vinate AZ; Virt Vite GT; Virt-C DHA; Virt-Caps; Virt-PN; Virt-PN Plus; Virt-Pn; Virt-Vite Plus; Vit B Complex Ctr; Vit-HA Multi Vitamin and Zinc Supplement; Vita B Complex Tab; Vita Balance 2000; Vita Plex Tab; Vita Vim Multivitamins and Minerals Tab; Vita Vim With Beta Carotene-caplet; Vita-B; Vita-B-75 Cap; Vita-Rx Diabetic Vitamin; Vita-vim - Tab; Vita-vim With Beta-carotene - Tab; Vita-worth B-complex Tablets; VitaPhil Aide; Vitaflex Dietary Suplement; Vital Be-100; Vital-D Rx; Vitalife - Capsule; Vitamin B + C Cap; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Complex W C Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Tablets; Vitaphil 90 DHA; Vitaphil DHA; Vitaplex; Vitasure; Vol-Care Rx; Vol-Tab Rx; Vp-heme Ob; Vp-heme Ob DHA; Vtb Vitamin and Mineral Supplement; Vyo Cylate - Pwr; Vyqua; Wellness Formula; Women's Biomultiple Vitamin and Mineral Supplement; Women's Formula; Xvite; Yakkongmo scalp deep cleansingshampoo; Zatean-Pn; Zatean-Pn Plus; ahoSAN; bioJET; healthy mamaBE WELL ROUNDED BE WELL ROUNDED; vitaMedMD One Rx; vitaMedMD Rx Plus
+
+> <INTERNATIONAL_BRANDS>
+Appearex; Biodermatin; Bioepiderm; Meribin; Nail-ex
+
+$$$$
+305
+  -OEChem-10051719083D
+
+ 21 20  0     0  0  0  0  0  0999 V2000
+    2.8438   -0.2447   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8815   -0.0256    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4860   -0.6925    0.0389 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0018    0.8116   -1.2653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9665   -1.0928    0.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0437    0.8711    1.2189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5636    0.3730    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5503   -1.2977    0.9513 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5649   -1.3696   -0.8202 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6981    0.2022   -2.1215 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0502    1.1084   -1.3741 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3944    1.7160   -1.1807 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8610   -1.6856    0.9208 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9431   -0.6003   -0.0166 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8360   -1.7236   -0.8770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7933    0.2953    2.1147 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4097    1.7559    1.1247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0891    1.1937    1.2633 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5343    0.9794   -0.9066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5448    1.0391    0.8656 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9121   -0.7787    0.8097 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB00122
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OEYIOHPDSNJKLS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[N+](C)(C)CCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1
+
+> <INCHI_KEY>
+OEYIOHPDSNJKLS-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H14NO
+
+> <MOLECULAR_WEIGHT>
+104.1708
+
+> <EXACT_MASS>
+104.107539075
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.565613058013364
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-hydroxyethyl)trimethylazanium
+
+> <ALOGPS_LOGP>
+-3.59
+
+> <JCHEM_LOGP>
+-4.662269162805079
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.968714076810006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.249884462803304
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+42.194
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+choline
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00122
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00020
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Choline
+
+> <SYNONYMS>
+Bilineurine; Choline ion; N-trimethylethanolamine; N,N,N-trimethylethanol-ammonium; trimethylethanolamine; Vitamin J
+
+> <PRODUCTS>
+24 Multivitamins + Minerals; 50 Plus; Advanced 2000 Capsules; Alertonic; Alkadrenergy Tablets; American Eagle Energizer Plus Vitamin Supplement Drink; American Plus Energy & Vitamin Drink; B 50 Capsules; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Compound 50mg Tab; B-100 Caps; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Hi Potency B Vitamins Tab; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B-plus - Tab; B50 Complex; Balanced B 125 Srt; Betacol; Bev 29 Tab; Bev B-150; Bev-lipo-1000; Biosculpt; Body Rox; Body Tropics Plus Tab; C. Vit-min Formula; Cavan Prenatal; Children's Chew Multi & Min Tab; Children's Chewable Multivitamins and Minerals; Children's Chewable Vit and Min Tab; Choline & Inositol Caps; Choline 250 mg; Choline 250mg; Choline Bitartrate 100mg-tab; Choline Bitartrate 500 Mg - Tablet; Choline Caps 350mg; Choline Ctr Srt 400mg; Choline Inositol Methionine; Choline Tab 250mg; Choline and Inositol 250mg/250mg; Cholinex Tab 200mg; Chromium and Vanadium Mineral Supplement; Classic Swiss One 10 Multivitamin and Mineral Tab; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complexe B Compose 75; Daily Energy Brand B-complex; Deriton; Derma-force; Doctor's Choice Brand for Men; Dp 2000; Duet DHA Balanced; Essential B Tablets; Extra Once A Day; Fem - Pmt; Folic Acid Plus; For-2; Formula Cm; Formula F L W; Formula Gly; Formula Hh; Formula Lf; Forty Plus Vitamin Supplement; Fusion PM Formula Tab; Gabavale-5; Gabazolamine; Gabazolamine-0.5; Gabazolpidem-5; Gabitidine; Gaboxetine; Gesticare DHA; Glyco Lite Ect; Glyco Plus Ect; Gnc Choline/inositol 250mg Tablets; Grand Master Formula Tab; Harvest Of Values All B Complex Tab; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Multi Tab; Hi Potency Stress B Tension With C; Hoa 1; Hyporyl - Tab; Innersource Tab; Insur-all Vitamin Supplement; Iron, Vit & Min Supp; L Fac Tab; L.C. Supplement; Lip - Fac Formula; Lipall Plus Tab; Lipo Factors Plus B6; Lipo-B-C Tab; Lipotrope Tab; Lipotrope-plus B6 Tab; Lipotropic Adjunct; Lipotropic Ctr; Lipotropics 600 Tab; Lipovite; Liqui B Complex; Liqui B Complex Plus; Liqui Vita; Liquid B Complex 50; Livertal 36; Low Potency B Complex Tab; Magnum-75 Vitamin and Mineral Supplement; Maintain Multiple Vitamin & Minerals; Mangadyn; Master Key Multi Vitamin Multi Mineral Formula 2; Maximum Once A Day; Maxine Vitamin and Mineral Supplement; Mega 13 Multivitamin Formula; Mega Balance; Mega Capsules; Mega Lipotropic Cap; Mega Plex III - Pck; Mega Plex IV - Pck; Mega Vitaminerals; Mega-vim 75 With Beta-carotene - Tablets; Men's 50+; Men's Biomultiple Vitamin and Mineral Supplement; Men's Multi Master Formula; Mini-B Tab; Multi B; Multi II IV Vi Tab; Multi Plex I - Tab; Multi Plex II - Tab; Multi Tabs; Multi Vitamin-mineral Formula; Multi-force for Women Tab; Multi-phyto Capsules; Multicaps; Multipack II; Multiple Vitamins and Minerals Capsules; Multitabs; Multivitamin & Minerals (iron Free); Multivitamin & Multimineral; Multivitamine; Multivitamins and Minerals With Betacarotene Tablets; Multivitamins and Minerals for Men; Multivitamins and Minerals for Women; Multivitamins and Minerals for Young Men; Multivitamins and Minerals for Young Women; Multra Plex; Multra With Iron; NESTABS ABC Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; NESTABS DHA Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; NESTABS Prenatal Multi-vitamin/Mineral Supplement; Nata Komplete; Natural Source Spectrum With Beta Carotene; New Chapter's D'adamo 4 Your Type Multiple for Type O; Nrg Plus Liq; Nutri-Tab OB; Nutri-Tab OB plus DHA; Olympian Multi Vit Plus Minerals Tab; Onccor; One A Day Multiple Vit W Minerals; One A Day Tab; Only One - Tablet; Orti B; Palm Spring's PM Form Tab; Phytopure; Phytovim Cap; Pour Ma Santé; Pre-Tabs DHA Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; Prenatal Formula Tab; Prenatal Vi-min; Prenatal, DHA; Pro Hers Vanilla; Pro Pcos Citrus; Proteminal; Red American Eagle Vitamin Supplement Drink; Revit Multi-vitamins and Minerals; Revitalize Multi-vitamin and Mineral Complex; Right Choice P.M. Multi Formula - Caplet; Senophylline; Sentradine; Sentraflox AM-10; Sentralopram AM-10; Sentravil PM-25; Sentrazolam AM; Sentrazolpidem PM-5; Sentroxatine; Spectrum 2 Cap; Stom #2; Strazepam; Stress B & C Caplet; Stress B Capsules With Vitamin C; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress Ctr Srt; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Vitamin B With C Complex Tablets; Stressmates; Super B Compound W 500mg Vit C; Super Daily No 2; Super Multi; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super Vita Vim Multivitamins and Minerals; Super Vita-vim With Beta-carotene - Tab; Super-pote Vitamin Supplement; Swiss One; Swiss One Multi Vit & Chel Min Tab; Swiss One Multivitamin and Mineral Caplet; Swiss One Timed Release Tab; Time Release B 100 Compound - Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Timed Release Vita-vim Srt; Trazamine; Ultr F/b E.S. Mega Lipotropic Fmla W B6bet; Ultra Hr; Usana Megavitamin Tablets - Tab; V-Natal; VITAFOL Gummies; Vasula Tab; Vege 1 Daily Tab; Vege Swiss One Multivitamin W Chel Mins Tab; Vit B Complex Ctr; Vit-HA Multi Vitamin and Zinc Supplement; Vita B Complex Tab; Vita Balance 2000; Vita Plex Tab; Vita Vim Multivitamins and Minerals Tab; Vita Vim With Beta Carotene-caplet; Vita-B; Vita-vim - Tab; Vita-vim With Beta-carotene - Tab; Vita-worth B-complex Tablets; Vitalife - Capsule; Vitamin & Mineral Formula 1 Dietary Supplement; Vitamin B + C Cap; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Suppl; Vitamin B Complex W C Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Tablets; Vitaphil 90 DHA; Vitaphil DHA; Vitaplex; Wellness Formula; Women's Biomultiple Vitamin and Mineral Supplement; Women's Formula
+
+> <SALTS>
+Choline bitartrate
+
+$$$$
