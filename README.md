@@ -5,13 +5,13 @@ This program will convert the small chemical molecules from sdf to pdbqt for fou
 
 Download the contents of repository and add it to your $PATH variable or simply use the pySDF2PDBQT script with the python3.
 
-$ export PATH="<PATH TO pySDF2PDBQT>:$PATH"
+    $ export PATH="<PATH TO pySDF2PDBQT>:$PATH"
 
 You can add above line to your .bashrc file.
 
 
 # Usage:
-python3 pySDF2PDBQT.py --help
+    $ python3 pySDF2PDBQT.py --help
 
 ![Screenshot](pySDF2pdbqt_usage.png)
 
@@ -26,19 +26,19 @@ Please use the 3D format of the ligands otherwise the ligand geometry will be co
 
 <h4> For PUBCHEM database: </h4>
 
-$ python3 pySDF2PDBQT.py -l PUBCHEM.sdf -d PUBCHEM
+    $ python3 pySDF2PDBQT.py -l PUBCHEM.sdf -d PUBCHEM
 
 <h4> For DRUGBANK database: </h4>
 
-$ python3 pySDF2PDBQT.py -l Drugbank.sdf -d DRUGBANK
+    $ python3 pySDF2PDBQT.py -l Drugbank.sdf -d DRUGBANK
 
 <h4> For ZINC database: </h4>
 
-$ python3 pySDF2PDBQT.py -l ZINC_database.sdf -d ZINC
+    $ python3 pySDF2PDBQT.py -l ZINC_database.sdf -d ZINC
 
 <h4> For chEMBL database: </h4>
 
-$ python3 pySDF2PDBQT.py -l chEMBL.sdf -d CHEMBL
+    $ python3 pySDF2PDBQT.py -l chEMBL.sdf -d CHEMBL
 
 Please use one database at one time and then the script will create two folder. One will have the SDF ligands and second will have the pdbqt files of the ligands.
 
